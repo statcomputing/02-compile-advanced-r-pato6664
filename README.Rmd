@@ -1,0 +1,19 @@
+---
+title: "README"
+author: "Patrick Toman"
+date: "9/6/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+\section{\underline{Problems}}
+
+\begin{itemize}
+  \item When compiling the book several packages were not yet installed - as we run the compilation, R will give an error message stating which libraries are missing which we can then install from eith CRAN or GitHub and then re-run the process. 
+  \item Needed to update R and re-install rtools for the most recent version - can be done via 'installr' library and looking up rtools installation online
+  \item Needed to make sure RStudio recognizes the updated version of rtools - look up online how to do this. 
+\end{itemize}
