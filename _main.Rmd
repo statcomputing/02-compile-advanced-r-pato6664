@@ -24,3 +24,6 @@ I built the book in RStudio
   \item Needed to update R and re-install rtools for the most recent version - can be done via 'installr' library and looking up rtools installation online
   \item Needed to make sure RStudio recognizes the updated version of rtools - look up online how to do this. 
 \end{itemize}
+
+<!--chapter:end:README.Rmd-->
+
